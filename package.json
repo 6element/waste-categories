@@ -1,0 +1,22 @@
+{
+  "name": "waste-categories",
+  "version": "1.0.0",
+  "description": "waste categories and symbols",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "waste-categories"
+  },
+  "keywords": [
+    "waste",
+    "categories",
+    "symbols",
+    "recycling centers",
+    "ADEME"
+  ],
+  "author": "Serge Bredin",
+  "license": "MIT"
+}
