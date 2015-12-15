@@ -1,6 +1,6 @@
 {
   "name": "waste-categories",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "waste categories and symbols",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
     "ADEME"
   ],
   "author": "Serge Bredin",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "find": "^0.2.3"
+  }
 }
