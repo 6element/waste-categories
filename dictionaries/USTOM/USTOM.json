@@ -1,6 +1,6 @@
 [
   {
-    "name": "Gravats",
+    "type": "Gravats",
     "path": "Gravats.svg",
     "infos": [
       "Enfouissement dans une installation de stockage de déchets inertes",
@@ -8,32 +8,32 @@
     ]
   },
   {
-    "name": "Plastiques souples",
+    "type": "Plastiques souples",
     "path": "Plastiques souples.svg",
     "infos": ["Bâches agricoles souillées refusées"]
   },
   {
-    "name": "Cartons",
+    "type": "Cartons",
     "path": "Cartons.svg",
     "infos": ["Recyclés en cartons"]
   },
   {
-    "name": "Palettes et cagettes",
+    "type": "Palettes et cagettes",
     "path": "Palettes et cagettes.svg",
     "infos": ["Recyclés en bois pour l'énergie (chaufferie)"]
   },
   {
-    "name": "Bois traités",
+    "type": "Bois traités",
     "path": "Bois traités.svg",
     "infos": ["Recyclés en panneaux de particules"]
   },
   {
-    "name": "Ferraille",
+    "type": "Ferraille",
     "path": "Ferraille.svg",
     "infos": ["Fonte en aciérie et entre dans la fabrication des automobiles, des vélos..."]
   },
   {
-    "name": "Déchets verts",
+    "type": "Déchets verts",
     "path": "Déchets verts.svg",
     "infos": [
       "Recyclés en compost", 
@@ -41,32 +41,32 @@
       ]
   },
   {
-    "name": "Encombrants",
+    "type": "Encombrants",
     "path": "Encombrants.svg",
     "infos": ["Enfouissement ou incinération pour valorisation combustible"]
   },
   {
-    "name": "Papiers",
+    "type": "Papiers",
     "path": "Papiers.svg",
     "infos": ["Recyclés en papier"]
   },
   {
-    "name": "Verre Plat",
+    "type": "Verre Plat",
     "path": "Verre plat.svg",
     "infos": ["Recyclé en verre"]
   },
   {
-    "name": "Huiles de vidange",
+    "type": "Huiles de vidange",
     "path": "Huiles de vidange.svg",
     "infos": ["Recyclées en combustible de substitution dans les industries"]
   },
     {
-    "name": "Huiles alimentaires",
+    "type": "Huiles alimentaires",
     "path": "Huiles alimentaires.svg",
     "infos": ["Recyclées en agro-carburant"]
   },
   {
-    "name": "Déchets ménagers spéciaux",
+    "type": "Déchets ménagers spéciaux",
     "path": "Cartons.svg"
   }
 ]
