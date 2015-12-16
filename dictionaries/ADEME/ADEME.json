@@ -1,190 +1,190 @@
 [
   {
     "type": "Déchèterie",
-    "path": "LogoDecheterie.svg"
+    "path": "./svg/LogoDecheterie.svg"
   },
   {
     "type": "Ameublement",
-    "path": "Ameublement.svg"
+    "path": "./svg/Ameublement.svg"
   },
   {
     "type": "Amiante Ciment",
-    "path": "Amiante_Ciment.svg"
+    "path": "./svg/Amiante_Ciment.svg"
   },
   {
     "type": "Batteries",
-    "path": "Batteries.svg"
+    "path": "./svg/Batteries.svg"
   },
   {
     "type": "Bois",
-    "path": "Bois.svg"
+    "path": "./svg/Bois.svg"
   },
   {
     "type": "Bois traité",
-    "path": "Bois_traite.svg"
+    "path": "./svg/Bois_traite.svg"
   },
   {
     "type": "Bouteilles plastiques",
-    "path": "Bouteilles_Plastiques.svg"
+    "path": "./svg/Bouteilles_Plastiques.svg"
   },
   {
     "type": "Bouteilles de gaz",
-    "path": "Bouteilles_de_gaz.svg"
+    "path": "./svg/Bouteilles_de_gaz.svg"
   },
   {
     "type": "Cartons",
-    "path": "Cartons.svg"
+    "path": "./svg/Cartons.svg"
   },
   {
     "type": "Cartouche encre",
-    "path": "Cartouche_Encre.svg"
+    "path": "./svg/Cartouche_Encre.svg"
   },
   {
     "type": "DEEE",
-    "path": "DEEE.svg"
+    "path": "./svg/DEEE.svg"
   },
   {
     "type": "Déblais Gravats",
-    "path": "Deblais-gravats.svg"
+    "path": "./svg/Deblais-gravats.svg"
   },
   {
     "type": "DDS",
-    "path": "Decheterie_Picto_DDS.svg"
+    "path": "./svg/Decheterie_Picto_DDS.svg"
   },
   {
     "type": "Déchets Soins à risques",
-    "path": "Dechets_d_39_activites_de_soins_a_risques.svg"
+    "path": "./svg/Dechets_d_39_activites_de_soins_a_risques.svg"
   },
   {
     "type": "Déchets verts",
-    "path": "Dechets_verts.svg"
+    "path": "./svg/Dechets_verts.svg"
   },
   {
     "type": "Ecrans",
-    "path": "Ecrans.svg"
+    "path": "./svg/Ecrans.svg"
   },
   {
     "type": "Encombrants",
-    "path": "Encombrants_1.svg"
+    "path": "./svg/Encombrants_1.svg"
   },
   {
     "type": "Extincteurs",
-    "path": "Extincteurs.svg"
+    "path": "./svg/Extincteurs.svg"
   },
   {
     "type": "Films agricoles usagés",
-    "path": "Films_agricoles_usages.svg"
+    "path": "./svg/Films_agricoles_usages.svg"
   },
   {
     "type": "Gros électroménager",
-    "path": "Gros_electromenager_0.svg"
+    "path": "./svg/Gros_electromenager_0.svg"
   },
   {
     "type": "Huiles de vidange",
-    "path": "Huiles_de_Vidange.svg"
+    "path": "./svg/Huiles_de_Vidange.svg"
   },
   {
     "type": "Huiles de fritures",
-    "path": "Huiles_de_fritures.svg"
+    "path": "./svg/Huiles_de_fritures.svg"
   },
   {
     "type": "Journaux Revues",
-    "path": "Journaux_et_Revues.svg"
+    "path": "./svg/Journaux_et_Revues.svg"
   },
   {
     "type": "Lampes",
-    "path": "Lampes.svg"
+    "path": "./svg/Lampes.svg"
   },
   {
     "type": "Liquides de freins",
-    "path": "Liquides_de_freins.svg"
+    "path": "./svg/Liquides_de_freins.svg"
   },
   {
     "type": "Liquides de refroidissement",
-    "path": "Liquides_de_refroidissement.svg"
+    "path": "./svg/Liquides_de_refroidissement.svg"
   },
   {
     "type": "Médicaments",
-    "path": "Medicaments.svg"
+    "path": "./svg/Medicaments.svg"
   },
   {
     "type": "Métaux",
-    "path": "Metaux.svg"
+    "path": "./svg/Metaux.svg"
   },
   {
     "type": "Mobilier",
-    "path": "Mobilier.svg"
+    "path": "./svg/Mobilier.svg"
   },
   {
     "type": "Papiers",
-    "path": "Papiers.svg"
+    "path": "./svg/Papiers.svg"
   },
   {
     "type": "Papiers cartons",
-    "path": "Papiers_cartons.svg"
+    "path": "./svg/Papiers_cartons.svg"
   },
   {
     "type": "Pelouse",
-    "path": "Pelouse.svg"
+    "path": "./svg/Pelouse.svg"
   },
   {
     "type": "Petits appareils ménagers",
-    "path": "Petits_appareils_menagers.svg"
+    "path": "./svg/Petits_appareils_menagers.svg"
   },
   {
     "type": "Piles boutons",
-    "path": "Piles_Boutons.svg"
+    "path": "./svg/Piles_Boutons.svg"
   },
   {
     "type": "Piles Accumulateurs",
-    "path": "Piles_et_Accumulateurs.svg"
+    "path": "./svg/Piles_et_Accumulateurs.svg"
   },
   {
     "type": "Plastiques",
-    "path": "Plastiques.svg"
+    "path": "./svg/Plastiques.svg"
   },
   {
     "type": "Plâtre Plaques de plâtre",
-    "path": "Platre_et_plaques_de_platre.svg"
+    "path": "./svg/Platre_et_plaques_de_platre.svg"
   },
   {
     "type": "Pneumatiques",
-    "path": "Pneumatiques.svg"
+    "path": "./svg/Pneumatiques.svg"
   },
   {
     "type": "Polystyrène",
-    "path": "Polystyrene.svg"
+    "path": "./svg/Polystyrene.svg"
   },
   {
     "type": "Radiographies",
-    "path": "Radiographies.svg"
+    "path": "./svg/Radiographies.svg"
   },
   {
     "type": "Réfrigérateurs Congélateur",
-    "path": "Refrigerateurs-Congelateurs.svg"
+    "path": "./svg/Refrigerateurs-Congelateurs.svg"
   },
   {
     "type": "Réutilisation Réemploi",
-    "path": "Reutilisation_reemploi.svg"
+    "path": "./svg/Reutilisation_reemploi.svg"
   },
   {
     "type": "Tailles",
-    "path": "Tailles.svg"
+    "path": "./svg/Tailles.svg"
   },
   {
     "type": "Textiles",
-    "path": "Textiles.svg"
+    "path": "./svg/Textiles.svg"
   },
   {
     "type": "Tout venant incinérable",
-    "path": "Tout_venant_incinerable.svg"
+    "path": "./svg/Tout_venant_incinerable.svg"
   },
   {
     "type": "Tout venant non incinérable",
-    "path": "Tout_venant_non_incinerable.svg"
+    "path": "./svg/Tout_venant_non_incinerable.svg"
   },
   {
     "type": "Verres",
-    "path": "Verres.svg"
+    "path": "./svg/Verres.svg"
   }
 ]
