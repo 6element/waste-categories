@@ -1,6 +1,6 @@
 {
   "name": "waste-categories",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "waste categories and symbols",
   "main": "index.js",
   "scripts": {
