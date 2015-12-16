@@ -1,0 +1,72 @@
+[
+  {
+    "type": "Gravats",
+    "path": "Gravats.svg",
+    "infos": [
+      "Enfouissement dans une installation de stockage de déchets inertes",
+      "Pas d'amiante ni de placo plâtre"
+    ]
+  },
+  {
+    "type": "Plastiques souples",
+    "path": "Plastiques souples.svg",
+    "infos": ["Bâches agricoles souillées refusées"]
+  },
+  {
+    "type": "Cartons",
+    "path": "Cartons.svg",
+    "infos": ["Recyclés en cartons"]
+  },
+  {
+    "type": "Palettes et cagettes",
+    "path": "Palettes et cagettes.svg",
+    "infos": ["Recyclés en bois pour l'énergie (chaufferie)"]
+  },
+  {
+    "type": "Bois traités",
+    "path": "Bois traités.svg",
+    "infos": ["Recyclés en panneaux de particules"]
+  },
+  {
+    "type": "Ferraille",
+    "path": "Ferraille.svg",
+    "infos": ["Fonte en aciérie et entre dans la fabrication des automobiles, des vélos..."]
+  },
+  {
+    "type": "Déchets verts",
+    "path": "Déchets verts.svg",
+    "infos": [
+      "Recyclés en compost", 
+      "Souches et branches de diamètre inférieurs à 10 cm"
+      ]
+  },
+  {
+    "type": "Encombrants",
+    "path": "Encombrants.svg",
+    "infos": ["Enfouissement ou incinération pour valorisation combustible"]
+  },
+  {
+    "type": "Papiers",
+    "path": "Papiers.svg",
+    "infos": ["Recyclés en papier"]
+  },
+  {
+    "type": "Verre Plat",
+    "path": "Verre plat.svg",
+    "infos": ["Recyclé en verre"]
+  },
+  {
+    "type": "Huiles de vidange",
+    "path": "Huiles de vidange.svg",
+    "infos": ["Recyclées en combustible de substitution dans les industries"]
+  },
+    {
+    "type": "Huiles alimentaires",
+    "path": "Huiles alimentaires.svg",
+    "infos": ["Recyclées en agro-carburant"]
+  },
+  {
+    "type": "Déchets ménagers spéciaux",
+    "path": "Cartons.svg"
+  }
+]

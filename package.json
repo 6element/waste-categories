@@ -1,10 +1,11 @@
 {
   "name": "waste-categories",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "waste categories and symbols",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "postinstall": "node postinstall.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
     "ADEME"
   ],
   "author": "Serge Bredin",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "find": "^0.2.3"
+  }
 }
