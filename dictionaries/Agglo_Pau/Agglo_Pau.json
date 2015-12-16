@@ -1,0 +1,99 @@
+[
+  {
+    "type": "Aiguilles",
+    "path": "../ADEME/svg/Dechets_d_39_activites_de_soins_a_risques.svg",
+    "infos": [
+      "Aiguilles dans les boites à DASRI (déchets d'activité de soin et risque infectieux)"
+    ]
+  },
+  {
+    "type": "Ampoules, Néons",
+    "path": "../ADEME/svg/Lampes.svg",
+    "infos": ["Bâches agricoles souillées refusées"]
+  },
+  {
+    "type": "Bois, Souches",
+    "path": "../ADEME/svg/Bois.svg",
+    "infos": ["Bois", "Souches"]
+  },
+  {
+    "type": "Cartons",
+    "path": "../ADEME/svg/Cartons.svg",
+    "infos": []
+  },
+  {
+    "type": "Electronique",
+    "path": "../ADEME/svg/DEEE.svg",
+    "infos": []
+  },
+  {
+    "type": "Déchets verts",
+    "path": "../ADEME/svg/Dechets_verts.svg",
+    "infos": []
+  },
+  {
+    "type": "Déchets ménagers spéciaux",
+    "path": "../ADEME/svg/Decheterie_Picto_DDS.svg"
+  },
+  {
+    "type": "Emballages",
+    "path": "../ADEME/svg/Polystyrene.svg",
+    "infos": []
+  },
+  {
+    "type": "Ferraille",
+    "path": "../ADEME/svg/Metaux.svg",
+    "infos": []
+  },
+  {
+    "type": "Gravats",
+    "path": "../ADEME/svg/Deblais-gravats.svg",
+    "infos": []
+  },
+  {
+    "type": "Huiles minérales",
+    "path": "../ADEME/svg/Huiles_de_Vidange.svg",
+    "infos": []
+  },
+  {
+    "type": "Incinérables",
+    "path": "../ADEME/svg/Tout_venant_incinerable.svg",
+    "infos": []
+  },
+  {
+    "type": "Montres",
+    "path": "",
+    "infos": []
+  },
+  {
+    "type": "Papiers",
+    "path": "../ADEME/svg/Papiers.svg",
+    "infos": []
+  },
+  {
+    "type": "Piles",
+    "path": "../ADEME/svg/Piles_et_Accumulateurs.svg",
+    "infos": []
+  },
+  {
+    "type": "Pneus",
+    "path": "../ADEME/svg/Pneumatiques.svg",
+    "infos": []
+  },
+  {
+    "type": "Radiographies",
+    "path": "../ADEME/svg/Radiographies.svg",
+    "infos": []
+  },
+  {
+    "type": "Vêtements",
+    "path": "../ADEME/svg/Textiles.svg",
+    "infos": []
+  },
+  {
+    "type": "Verre",
+    "path": "../ADEME/svg/Verres.svg",
+    "infos": []
+  }
+  
+]
