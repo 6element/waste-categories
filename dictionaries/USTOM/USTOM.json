@@ -9,7 +9,7 @@
   },
   {
     "type": "Plastiques souples",
-    "path": "./svg/Plastiques souples.svg",
+    "path": "./svg/Plastiques_souples.svg",
     "infos": ["Bâches agricoles souillées refusées"]
   },
   {
@@ -19,12 +19,12 @@
   },
   {
     "type": "Palettes et cagettes",
-    "path": "./svg/Palettes et cagettes.svg",
+    "path": "./svg/Palettes_et_cagettes.svg",
     "infos": ["Recyclés en bois pour l'énergie (chaufferie)"]
   },
   {
     "type": "Bois traités",
-    "path": "./svg/Bois traités.svg",
+    "path": "./svg/Bois_traites.svg",
     "infos": ["Recyclés en panneaux de particules"]
   },
   {
@@ -34,7 +34,7 @@
   },
   {
     "type": "Déchets verts",
-    "path": "./svg/Déchets verts.svg",
+    "path": "./svg/Dechets_verts.svg",
     "infos": [
       "Recyclés en compost", 
       "Souches et branches de diamètre inférieurs à 10 cm"
@@ -52,21 +52,21 @@
   },
   {
     "type": "Verre Plat",
-    "path": "./svg/Verre plat.svg",
+    "path": "./svg/Verre_plat.svg",
     "infos": ["Recyclé en verre"]
   },
   {
     "type": "Huiles de vidange",
-    "path": "./svg/Huiles de vidange.svg",
+    "path": "./svg/Huiles_de_vidange.svg",
     "infos": ["Recyclées en combustible de substitution dans les industries"]
   },
     {
     "type": "Huiles alimentaires",
-    "path": "./svg/Huiles alimentaires.svg",
+    "path": "./svg/Huiles_alimentaires.svg",
     "infos": ["Recyclées en agro-carburant"]
   },
   {
     "type": "Déchets ménagers spéciaux",
-    "path": "./svg/Cartons.svg"
+    "path": "./svg/Decheterie_Picto_DDS.svg"
   }
 ]
