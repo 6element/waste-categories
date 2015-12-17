@@ -13,9 +13,10 @@ files.forEach(function(file){
     var dic = require(file) || require('./' + file);
     var reference = path.basename(file, '.json');
 
-    dic.forEach(function(item){ // replace the item path by a complete path that depends on the context
-        item.path = path.join('node_modules', 'waste-categories', 'dictionaries', reference, item.path);
+    dic.forEach(function(item){
+    	item.path = path.join('dictionaries', reference, item.path);
     });
+
     myDic[reference] = dic;
 });
 
