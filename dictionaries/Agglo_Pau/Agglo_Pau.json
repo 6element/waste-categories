@@ -94,6 +94,10 @@
     "type": "Verre",
     "path": "../ADEME/svg/Verres.svg",
     "infos": []
+  },
+  {
+    "type": "Bouteilles Plastiques",
+    "path": "../ADEME/svg/Bouteilles_Plastiques.svg",
+    "infos": []
   }
-  
 ]
