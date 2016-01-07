@@ -68,5 +68,9 @@
   {
     "type": "Déchets ménagers spéciaux",
     "path": "./svg/Dechets_menagers_speciaux.svg"
+  },
+  {
+    "type": "Mobilier usagé",
+    "path": "./svg/Mobilier_usage.svg"
   }
 ]
