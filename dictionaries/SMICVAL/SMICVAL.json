@@ -1,0 +1,112 @@
+[
+  {
+    "type": "Ampoules",
+    "path": "./svg/ampoules.svg",
+    "infos": []
+  },
+  {
+    "type": "Batteries",
+    "path": "./svg/Batteries.svg",
+    "infos": []
+  },
+  {
+    "type": "Bidons",
+    "path": "./svg/Bidons.svg",
+    "infos": []
+  },
+  {
+    "type": "Bois",
+    "path": "./svg/Bois.svg",
+    "infos": []
+  },
+  {
+    "type": "Cartons",
+    "path": "./svg/Cartons.svg",
+    "infos": []
+  },
+  {
+    "type": "Dangereux",
+    "path": "./svg/dangereux.svg",
+    "infos": []
+  },
+  {
+    "type": "Electriques",
+    "path": "./svg/Electriques.svg",
+    "infos": []
+  },
+  {
+    "type": "Encre",
+    "path": "./svg/Encre.svg",
+    "infos": []
+  },
+  {
+    "type": "Enfouis",
+    "path": "./svg/Enfouis.svg",
+    "infos": []
+  },
+  {
+    "type": "Gravats",
+    "path": "./svg/gravats.svg",
+    "infos": []
+  },
+  {
+    "type": "Huiles alimentaires",
+    "path": "./svg/huiles_alim.svg",
+    "infos": []
+  },
+    {
+    "type": "Huiles de vidange",
+    "path": "./svg/huiles_vidange.svg",
+    "infos": []
+  },
+  {
+    "type": "Métaux",
+    "path": "./svg/metaux.svg",
+    "infos": []
+  },
+  {
+    "type": "Meubles",
+    "path": "./svg/meubles.svg",
+    "infos": []
+  },
+  {
+    "type": "Papiers",
+    "path": "./svg/papiers.svg",
+    "infos": []
+  },
+  {
+    "type": "Piles",
+    "path": "./svg/piles.svg",
+    "infos": []
+  },
+  {
+    "type": "Platre",
+    "path": "./svg/platre.svg",
+    "infos": []
+  },
+  {
+    "type": "Pneus",
+    "path": "./svg/pneus.svg",
+    "infos": []
+  },
+  {
+    "type": "Soins",
+    "path": "./svg/soins.svg",
+    "infos": []
+  },
+  {
+    "type": "Textiles",
+    "path": "./svg/textiles.svg",
+    "infos": []
+  },
+  {
+    "type": "Vegetaux",
+    "path": "./svg/vegetaux.svg",
+    "infos": []
+  },
+  {
+    "type": "Verre",
+    "path": "./svg/verre.svg",
+    "infos": []
+  }
+]

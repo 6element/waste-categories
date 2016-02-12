@@ -13,3 +13,4 @@ reference => [{
 v1.0.1 includes:
 - ADEME icons
 - USTOM icons
+- SMICVAL icons
