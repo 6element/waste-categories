@@ -6,22 +6,22 @@
   },
   {
     "type": "Batteries",
-    "path": "./svg/Batteries.svg",
+    "path": "./svg/batteries.svg",
     "infos": []
   },
   {
     "type": "Bidons",
-    "path": "./svg/Bidons.svg",
+    "path": "./svg/bidons.svg",
     "infos": []
   },
   {
     "type": "Bois",
-    "path": "./svg/Bois.svg",
+    "path": "./svg/bois.svg",
     "infos": []
   },
   {
     "type": "Cartons",
-    "path": "./svg/Cartons.svg",
+    "path": "./svg/cartons.svg",
     "infos": []
   },
   {
@@ -31,17 +31,17 @@
   },
   {
     "type": "Electriques",
-    "path": "./svg/Electriques.svg",
+    "path": "./svg/electriques.svg",
     "infos": []
   },
   {
     "type": "Encre",
-    "path": "./svg/Encre.svg",
+    "path": "./svg/encre.svg",
     "infos": []
   },
   {
     "type": "Enfouis",
-    "path": "./svg/Enfouis.svg",
+    "path": "./svg/enfouis.svg",
     "infos": []
   },
   {
